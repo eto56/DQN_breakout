@@ -1,0 +1,6 @@
+top - メモリ使用量など
+
+srun --pty --overlap --jobid <> bash 
+これで、ジョブ中のノードに入れる
+
+nvidia-smiでGPU使用状況を確認できる
